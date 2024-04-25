@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\bin\Debug\net8.0\Juego Snake en consola.exe
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\bin\Debug\net8.0\Juego Snake en consola.deps.json
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\bin\Debug\net8.0\Juego Snake en consola.runtimeconfig.json
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\bin\Debug\net8.0\Juego Snake en consola.dll
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\bin\Debug\net8.0\Juego Snake en consola.pdb
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\obj\Debug\net8.0\Juego Snake en consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\obj\Debug\net8.0\Juego Snake en consola.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\obj\Debug\net8.0\Juego Snake en consola.AssemblyInfo.cs
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\obj\Debug\net8.0\Juego Snake en consola.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\obj\Debug\net8.0\Juego Snake en consola.dll
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\obj\Debug\net8.0\refint\Juego Snake en consola.dll
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\obj\Debug\net8.0\Juego Snake en consola.pdb
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\obj\Debug\net8.0\Juego Snake en consola.genruntimeconfig.cache
+C:\Users\User\source\repos\Juego Snake en consola\Juego Snake en consola\obj\Debug\net8.0\ref\Juego Snake en consola.dll
